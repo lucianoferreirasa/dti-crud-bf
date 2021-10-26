@@ -12,12 +12,12 @@ $ git clone https://github.com/lucianoferreirasa/dti-crud-bf/tree/master/fronten
 
 ## Instale as dependências da aplicação
 
-$ yarn
-$ npm i
+- $ yarn
+- $ npm i
 
 ## Executar aplicação
 
-$ yarn start
-$ npm start
+- $ yarn start
+- $ npm start
 
 > A aplicação irá executar e abrir o navegador na porta https://localhost:3000
