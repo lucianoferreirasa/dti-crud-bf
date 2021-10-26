@@ -18,6 +18,6 @@
 
 $ git clone https://github.com/lucianoferreirasa/dti-crud-bf
 
-> Execute "npm i" dentro da pasta do backend
-> Configure o banco de dados de acordo dom o documento ormconfig.json
-> Execute "npm start"
+- Execute "npm i" dentro da pasta do backend
+- Configure o banco de dados de acordo dom o documento ormconfig.json
+- Execute "npm start"
